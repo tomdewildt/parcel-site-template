@@ -1,0 +1,71 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "rules": {
+        "array-bracket-spacing": [
+            "error",
+            "always"
+        ],
+        "complexity": [
+            "error",
+            5
+        ],
+        "computed-property-spacing": [
+            "error",
+            "always"
+        ],
+        "indent": [
+            "error",
+            4,
+            {
+                "SwitchCase": 1
+            }
+        ],
+        "max-len": [
+            "error",
+            100,
+            2
+        ],
+        "no-multiple-empty-lines": [
+            "error",
+            {
+                "max": 1,
+                "maxEOF": 0,
+                "maxBOF": 0
+            }
+        ],
+        "no-use-before-define": [
+            "error",
+            {
+                "functions": false
+            }
+        ],
+        "object-curly-spacing": [
+            "error",
+            "always"
+        ],
+        "prefer-const": 1,
+        "quotes": [
+            "error",
+            "double",
+            "avoid-escape"
+        ],
+        "space-in-parens": [
+            "error",
+            "always"
+        ],
+        "template-curly-spacing": [
+            "error",
+            "always"
+        ]
+    }
+}
