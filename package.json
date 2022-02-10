@@ -10,7 +10,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@parcel/transformer-sass": "2.2.1",
+    "@parcel/transformer-sass": "2.3.1",
     "eslint": "8.8.0",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-plugin-import": "2.25.4",
