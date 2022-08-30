@@ -15,7 +15,7 @@
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-plugin-import": "2.26.0",
     "parcel": "2.7.0",
-    "sass": "1.54.5"
+    "sass": "1.54.6"
   },
   "browserslist": [
     "last 1 chrome version",
