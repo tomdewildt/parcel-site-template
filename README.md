@@ -8,7 +8,7 @@ Simple starter template for building [Parcel](https://parceljs.org/) sites with 
 
 Prerequisites:
 * node version ```18.12.1``` or later
-* npm version ```6.14.4``` or later
+* npm version ```8.19.2``` or later
 
 ### Development
 
