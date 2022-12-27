@@ -1,5 +1,5 @@
 # Parcel Site Template
-[![Build](https://img.shields.io/github/workflow/status/tomdewildt/parcel-site-template/ci/master)](https://github.com/tomdewildt/parcel-site-template/actions?query=workflow%3Aci)
+[![Build](https://img.shields.io/github/actions/workflow/status/tomdewildt/parcel-site-template/ci.yml?branch=master)](https://github.com/tomdewildt/parcel-site-template/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/tomdewildt/parcel-site-template)](https://github.com/tomdewildt/parcel-site-template/blob/master/LICENSE)
 
 Simple starter template for building [Parcel](https://parceljs.org/) sites with [Sass](https://sass-lang.com/) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
